@@ -1,0 +1,17 @@
+<html 
+	<head>
+		<title>
+			Se tenia que hacer 
+
+		</title>
+	</head>
+	<body>
+		<center>hola ke ase</center>
+		<hr>Gus es la ostia :v</hr>
+		<a href="https://www.google.com">Ir a Google</a>
+		<a href="https://www.facebook.com">Ir a Facebook</a>
+		<a href="https://www.youtube.com">Ir a Youtube</a>
+		<a href="https://github.com">Ir a GitHub</a>
+		<a href="https://www.twitter.com">Ir a Twitter</a>
+	</body>
+</html>
