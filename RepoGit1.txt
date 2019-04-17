@@ -15,3 +15,5 @@
 		<a href="https://www.twitter.com">Ir a Twitter</a>
 	</body>
 </html>
+
+// Aca esta unos tips para que vean cositas sobre comandos git "http://rogerdudler.github.io/git-guide/index.es.html"
